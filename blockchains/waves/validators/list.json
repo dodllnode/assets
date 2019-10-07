@@ -10,5 +10,11 @@
         "name": "BearWaves",
         "description": "One of the first leasing pools on Waves Blockchain. Hosting multiple nodes on all Waves chains. Managed by professionals with Waves knowhow.",
         "website": "https://www.bearwaves.nl/"
-    }    
-]
+    },
+    {
+        "id": "3PLp1QsFxukK5nnTBYHAqjz9duWMriDkHeT",
+        "name": "dodllnode"
+        "description": "Our main idea is 100% payouts to all participants. With this idea we became prize winners of Game of Nodes. We pay all your mining profit on a weekly basis. It is safe and profitable!"
+        "website": "https://forum.wavesplatform.com/t/dodllnode-pool/16301"
+    }
+    ]
